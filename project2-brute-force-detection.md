@@ -81,6 +81,4 @@ Detected events were exported to CSV for further review in Excel.
 - The risk of "silent failure": a tool reporting "no results" does not always mean "no events occurred" — permission issues can produce false negatives
 - Exporting findings to CSV for reporting
 
-## 4. Notes
 
-This project originally planned to ingest findings into Splunk and configure a real SIEM alert rule; however, a technical obstacle was encountered during installation. This step is planned to be completed as a separate follow-up project.
